@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Introducing ListViews</string>
+
+    <string-array name="names">
+        <item>Alice</item>
+        <item>Bart</item>
+        <item>Colin</item>
+        <item>Derek</item>
+        <item>Eric</item>
+        <item>Francesca</item>
+        <item>Gloria</item>
+        <item>Harry</item>
+        <item>Ian</item>
+        <item>Julia</item>
+        <item>Katelyn</item>
+        <item>Lisa</item>
+        <item>Marc</item>
+        <item>Nicole</item>
+        <item>Oprah</item>
+        <item>Paul</item>
+        <item>Qile</item>
+        <item>Roger</item>
+        <item>Stacey</item>
+    </string-array>
+
+</resources>

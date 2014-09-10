@@ -29,6 +29,7 @@ public class Main extends Activity{
 		
 		listView = (ListView) findViewById(R.id.list_view);
 		listView.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, Arrays.asList(names)));
+		
 		listView.setOnItemClickListener(new OnItemClickListener() {
 
 			@Override
